@@ -67,4 +67,4 @@ public class Main {
         System.out.println(Arrays.toString(maiArrays4));
         }
 }
-
+// Домашнее задание считаю выполненным.
